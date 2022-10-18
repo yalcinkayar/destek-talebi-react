@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/destek-talebi-react/static/css/main.7be10330.css",
+    "main.js": "/destek-talebi-react/static/js/main.06053d7f.js",
+    "index.html": "/destek-talebi-react/index.html",
+    "main.7be10330.css.map": "/destek-talebi-react/static/css/main.7be10330.css.map",
+    "main.06053d7f.js.map": "/destek-talebi-react/static/js/main.06053d7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7be10330.css",
+    "static/js/main.06053d7f.js"
+  ]
+}
